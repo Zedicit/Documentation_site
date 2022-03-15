@@ -22,4 +22,4 @@ ssh user@server_ip
 ```
 now type the server’s password again
 should give remote access
-image of the file location
+![image of the file location](../../res/media/overview/side%20note%20ssh%20key%20and%20your%20server%20image%201.png)
