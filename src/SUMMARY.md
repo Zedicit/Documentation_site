@@ -19,6 +19,7 @@
 [Why Markdown:](Overview/why_markdown.md)
 
 - [Step 1: we need a server](Overview/step1_we_need_a_server.md)
+  - [Sidenote: SSH key and your server]()
 
 [Web Server Choice:]()
 
