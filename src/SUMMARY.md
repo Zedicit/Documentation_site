@@ -15,12 +15,12 @@
 
 - [Why Markdown:](Overview/why_markdown.md)
   - [Step 1: we need a server](Overview/step1_we_need_a_server.md)
-  - [Sidenote: SSH key and your server](Overview/sidenote_ssh_and_your_server.md)
-- [Web Server Choice:]()
-  - [NGINX vs. Apache]()
-  - [Apache Overview]()
-  - [NGINX overview]()
-  - [Apache Handling Connections]()
+    - [Sidenote: SSH key and your server](Overview/sidenote_ssh_and_your_server.md)
+- [Web Server Choice:](Overview/web_server_choice.md)
+  - [NGINX vs. Apache](Overview/nginx_vs_apache.md`)
+  - [Apache Overview](Overview/apache_overview.md)
+  - [NGINX overview](Overview/nginx_overview.md)
+  - [Apache Handling Connections](Overview/apache_handling_connections.md)
   - [NGINX Handling Connections]()
   - [Conclusion:]()
 
