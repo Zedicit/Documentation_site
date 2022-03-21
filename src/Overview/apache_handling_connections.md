@@ -6,19 +6,19 @@ Many requests can lead to heavy resource consumption
 
 Multi-processing modules (MPMs) determine HTTP requests.
 
-==Mpm_prefork:==
+**Mpm_prefork**
 
 Each child process can only handle one request at a time
 
 Does not scale effectively
 
-==Mpm_worker==
+**Mpm_worker**
 
 Worker can create multiple threads for a connection
 
 Threads are less resource intense then processes
 
-==Mpm_event==
+**Mpm_event**
 
 Lowest resource requirements
 
