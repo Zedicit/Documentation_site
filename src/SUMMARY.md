@@ -4,31 +4,25 @@
 
 # Information
 
-[Markdown Cheat Sheet](information/markdown-cheat-sheet.md)
+- [Markdown Cheat Sheet](information/markdown-cheat-sheet.md)
 
-[Terms to search:](./information/terms_to_search.md)
-
-[Purpose:](./information/purpose.md)
-
-[Plan:](./information/plan.md)
-
-[Planned Features:](information/planned_features.md)
+- [Terms to search:](./information/terms_to_search.md)
+- [Purpose:](./information/purpose.md)
+- [Plan:](./information/plan.md)
+- [Planned Features:](information/planned_features.md)
 
 # Overview
 
-[Why Markdown:](Overview/why_markdown.md)
-
-- [Step 1: we need a server](Overview/step1_we_need_a_server.md)
-  - [Sidenote: SSH key and your server]()
-
-[Web Server Choice:]()
-
-- [NGINX vs. Apache]()
-- [Apache Overview]()
-- [NGINX overview]()
-- [Apache Handling Connections]()
-- [NGINX Handling Connections]()
-- [Conclusion:]()
+- [Why Markdown:](Overview/why_markdown.md)
+  - [Step 1: we need a server](Overview/step1_we_need_a_server.md)
+  - [Sidenote: SSH key and your server](Overview/sidenote_ssh_and_your_server.md)
+- [Web Server Choice:]()
+  - [NGINX vs. Apache]()
+  - [Apache Overview]()
+  - [NGINX overview]()
+  - [Apache Handling Connections]()
+  - [NGINX Handling Connections]()
+  - [Conclusion:]()
 
 # Making of Site
 
